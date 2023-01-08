@@ -5,4 +5,4 @@ echo $?
 ./quote 2> q
 cat q
 grep printf < 101-quote.c
-grep putf < 101-quote.c
+grep put < 101-quote.c
